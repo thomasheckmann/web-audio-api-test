@@ -1,10 +1,12 @@
 {
-  "name": "electron-react-boilerplate",
-  "description": "A foundation for scalable desktop apps",
+  "name": "web-api-testapp",
+  "description": "Electron app to test Web Audio API features",
   "keywords": [
     "electron",
-    "boilerplate",
     "react",
+    "Web Audio API",
+    "web-audio",
+    "audio",
     "typescript",
     "ts",
     "sass",
@@ -22,17 +24,10 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://electron-react-boilerplate.js.org"
+    "name": "Thomas Heckmann",
+    "email": "thomas.kolbeck@gmail.com",
+    "url": "https://github.com/thomasheckmann/web-audio-api-test"
   },
-  "contributors": [
-    {
-      "name": "Amila Welihinda",
-      "email": "amilajack@gmail.com",
-      "url": "https://github.com/amilajack"
-    }
-  ],
   "main": "./.erb/dll/main.bundle.dev.js",
   "scripts": {
     "build": "concurrently \"npm run build:main\" \"npm run build:renderer\"",
