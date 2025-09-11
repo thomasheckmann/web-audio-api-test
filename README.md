@@ -17,7 +17,7 @@
 [![OpenCollective](https://opencollective.com/electron-react-boilerplate-594/backers/badge.svg)](#backers)
 [![OpenCollective](https://opencollective.com/electron-react-boilerplate-594/sponsors/badge.svg)](#sponsors)
 [![StackOverflow][stackoverflow-img]][stackoverflow-url]
-
+ 
 </div>
 
 ## Install
